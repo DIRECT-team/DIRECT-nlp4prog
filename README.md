@@ -1,4 +1,4 @@
-# Code for the paper "Decompiled Identifier Naming with Transformer Models: an Exploratory Study"
+# Code for the paper "DIRECT : A Transformer-based Model for Decompiled Variable Name Recovery"
 
 <p align="center"> <img src="https://github.com/DIRECT-team/DIRECT-nlp4prog/blob/main/DIRECT_overview_3.png" width="80%"> </p>
 
